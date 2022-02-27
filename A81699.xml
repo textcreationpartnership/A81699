@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Downfall of the Fifth Monarchy. Or, The personal reign of Christ on earth, confuted. Discovering the desperate and dangerous principles and designes of these frenzy-conceited men of the Fifth Monarchy; who pretending to do the work of their generations, seek to involve these nations again in bloud and misery, had not the Lord prevented them in their designe; with a brief manifestation of the true generation work which every good Christian ought to do.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81699</idno>
+            <idno type="STC">Wing D2092</idno>
+            <idno type="STC">Thomason E1637_3</idno>
+            <idno type="STC">ESTC R209052</idno>
+            <idno type="EEBO-CITATION">99867957</idno>
+            <idno type="PROQUEST">99867957</idno>
+            <idno type="VID">170188</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170188)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 206:E1637[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Downfall of the Fifth Monarchy. Or, The personal reign of Christ on earth, confuted. Discovering the desperate and dangerous principles and designes of these frenzy-conceited men of the Fifth Monarchy; who pretending to do the work of their generations, seek to involve these nations again in bloud and misery, had not the Lord prevented them in their designe; with a brief manifestation of the true generation work which every good Christian ought to do.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Andrews, at the White Lion in the Old-Baily,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 20."; "Aprill 57.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fifth Monarchy Men --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170188:1" rendition="simple:additions"/>
+            <p>THE DOWNFALL of the Fifth Monarchy. OR, <hi>The perſonal Reign of Chriſt on Earth, confuted.</hi>
+            </p>
+            <p>Diſcovering the deſperate and dangerous Princi<g ref="char:EOLhyphen"/>ples and Deſignes of theſe frenzy-conceited men of the Fifth Monarchy; who pretending to do the work of their generations, ſeek to in<g ref="char:EOLhyphen"/>volve theſe Nations again in bloud and miſe<g ref="char:EOLhyphen"/>ry, had not the Lord prevented them in their deſigne; With a brief manifeſtation of the true generation work which every good Chri<g ref="char:EOLhyphen"/>ſtian ought to do.</p>
+            <q>
+               <bibl>JOH. 18. 36.</bibl> 
+               <hi>My Kingdome</hi> (ſaith our Savi<g ref="char:EOLhyphen"/>our) <hi>is not of this World.</hi>
+            </q>
+            <q>
+               <bibl>LUK. 19. 14.</bibl> 
+               <hi>Wee will not have this man to reign over us.</hi>
+            </q>
+            <figure>
+               <figDesc>small image of lion</figDesc>
+               <p>The Lord hath rouſed them up.</p>
+            </figure>
+            <p>London, Printed for <hi>John Andrews,</hi> at the White Lion in the Old-Baily, 1657.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:170188:2"/>
+            <p>THere is lately publiſhed a moſt excellent, pious, and profitable Booke, entituled, <hi>Chriſts firſt Sermon; or the neceſſary duty, and Chriſtian practice of Repentance.</hi>
+            </p>
+            <p>Alſo, five other ſmall Books, of ſingular worth and uſe for heſe times. The one is called <hi>The Plain Mans plain Path way to Heaven, direct<g ref="char:EOLhyphen"/>ing every one how they may bee ſaved.</hi> A ſecond, <hi>The Charitable Chriſtian,</hi> or <hi>Comfort and Councel both to the Rich and Poor.</hi> A third, <hi>Doomſ day at band; or the great Day of the Lord drawing nigh.</hi> A tourth <hi>The Devils Diſ<g ref="char:EOLhyphen"/>caſe or the ſin of Pride arraigned and condem<g ref="char:EOLhyphen"/>ned.</hi> The fifth and laſt is called, <hi>The Black Book of Conſcience.</hi> Very ſeaſonable for theſe li<g ref="char:EOLhyphen"/>centious times, and are but of two pence a piece price. All to be ſold by John Andrews, at the White Lion in the Old Baily.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:170188:2"/>
+            <epigraph>
+               <q>
+                  <bibl>Pſal. 103. 19.</bibl> The Lord hath propered his throne in the heaven and his Kingdome uleth over all.</q>
+               <q>
+                  <bibl>Pſal. 245. 13.</bibl> Thy Kingdome is an everlaſting Kingdom and thy dominion endureth through<g ref="char:EOLhyphen"/>out all ages.</q>
+               <q>
+                  <bibl>Heb. 1. 9.</bibl> But unto the Son, ſaith he, thy chrone O God is for ever and ever a Scepter of regh<g ref="char:EOLhyphen"/>teouſneſs is the Scepter of thy Kingdome.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He great deſigne of the Devil belo<g ref="char:EOLhyphen"/>ved in all ages, hath been to un<g ref="char:EOLhyphen"/>dermine the Church and People of God, and to ſeduce poor ſouls, by drawing and entiſing them in<g ref="char:EOLhyphen"/>to moſt deſperate and groſs errours; the better to do this, he ſometimes ransforms himſelf into an Angel of Light; which deſigne of his, as it hath been vatiouſly caried on and managed in all. A<g ref="char:EOLhyphen"/>ges, ſo moſt eſpecially in this laſt and worſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge of the world, wherein we live.</p>
+            <pb n="2" facs="tcp:170188:3"/>
+            <p>Among many other ſtratagems and devices which the Devil hath to delude people, one main if not chief deſigne of his, hath been to exalt his Kingdome by infuſing ſtrange and unheard of principles and opinions into the hearts and minds of men, in which exploit of his he hath very nota<g ref="char:EOLhyphen"/>bly, like a cunning deceiver acted his part in this laſt age of the world in which we live, witneſs his notable deluſions of thouſands of poor ignorant ſouls into ſtrange and unheard of principles: a<g ref="char:EOLhyphen"/>mong many other, our late Quakers in whom how greatly he hath prevailed, the Lord knowes hath too too evidently been ſeen in our days—but the folly and madneſs of theſe ſimple ſottiſh deluders and deceivers, hath been ſufficiently de<g ref="char:EOLhyphen"/>clared to the world.</p>
+            <p>Another ſort more ſeeming wiſe and confident then theſe, are ſuch as now among us, are known by the name of <hi>Fifth Monarchy men,</hi> that are for <hi>their generation work,</hi> as they ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but not in their actions; whoſe windy principles, by reaſon of the eminency of ſome chief deluders of that Sect, hath not a little poyſoned and infected the mindes and ſpirits of many thouſands of male<g ref="char:EOLhyphen"/>contented perſons among us, and this Leven of their falſe doctrine hath ſo wrought with them, as that they dare deſperately ſet themſelves to throw down and oppoſe all, both Government and Go<g ref="char:EOLhyphen"/>vernors,
+<pb n="3" facs="tcp:170188:3"/>
+that ſhall ſtand in the way of their de<g ref="char:EOLhyphen"/>ſignes; under pretence of ſetting up the Kingdom of Chriſt in the earty, and <hi>doing the works of their generation</hi> as if they would croſs God himſelf, and appoint him what Government and Governours he ſhall ſet up; Who ſetteth up one, and pulleth down another, and there is nothing that may ſay unto him, what doeſt thou; but as God hath diſ<g ref="char:EOLhyphen"/>covered and diſowned, as well in his providential actings as in his holy word, the deſignes of all o<g ref="char:EOLhyphen"/>ther deluders hitherto, bleſſed bee God, ſo like<g ref="char:EOLhyphen"/>wiſe hath he now of late the deſign of thoſe over<g ref="char:EOLhyphen"/>confident and ſelf-opinionated perſons, who cry up the perſonal reign of Chriſt, on earth and doing the works of their generation, the great work wherein theſe ſuper-confident men have moſt bu<g ref="char:EOLhyphen"/>ſied and imployed both their wits and parts, hath been mainly to throw down whatſoever in the world croſſeth or oppoſerh their deſignes.</p>
+            <p>Witneſs that notable, but perniticus deſign of theirs lately on foot, againſt the Miniſters and Miniſtry of Chriſt, a moſt notable and cunning device of the Devil, in which moſt deſtructive de<g ref="char:EOLhyphen"/>ſign, the Devil and all his inſtruments are moſt deeply engaged in, but as God was then pleaſed to blaſt that wretched deſign of theirs, againſt the whole Miniſtry and School of good learning, ſo I hope he will ſtill be pleaſed to enſnare them in all
+<pb n="4" facs="tcp:170188:4"/>
+their undertakings whatſoever. The great policy of theſe men is to lay down all, both Learning Mi<g ref="char:EOLhyphen"/>niſtry, and Governours though never ſo juſt and right as Antichriſtian and Babyloniſh, thereby I ying an <hi>odium</hi> as it were upon the ways and in<g ref="char:EOLhyphen"/>ſtitutions of Chriſt himſelf, that ſo by their ſpeci<g ref="char:EOLhyphen"/>ous pretences they may work themſelvs and their doctrines into the good opinions of ſuch, whoſe affections (like filly people) are itching after No<g ref="char:EOLhyphen"/>velty. But how greatly Antichriſtian theſe men are in thoſe and all other their deſignes, I ſhall here endeavour, God willing, to manifeſt and de<g ref="char:EOLhyphen"/>clare to all the world.</p>
+            <p>Firſt, theſe generation Work-men both in their Writings and preaching, labour to poſſeſs mens minds, heads and hearts, with fond faneies and conceits of the <hi>Perſonal of Reign of Chriſt for a thouſand years upon earth;</hi> which doctrine is both erroneous and alſo Antichriſtian, having no foundation or footing in the bleſſed Word of God, and is alſo derogatory to the honour and dignity of the Lord Jeſus Chriſt himſelf. For our Saviour Chriſt himſelf <hi>Joh.</hi> 18. 36. ſaith expreſly, that his Kingdome is not of this world; And if not of this world, then no perſonal raign upon earth.</p>
+            <p>Secondly Jeſus Chriſt when he left the world, aſcended <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> heaven and is there ſate down at the right hand of God the Father; from whence
+<pb n="5" facs="tcp:170188:4"/>
+he will not return till ſuch time as he ſhall come to judgement. I will come again (ſaith Chriſt <hi>Joh.</hi> 14. 3. to his Diſciples) but mark the words, it ſhall be not to raign perſonally upon earth with you but to receive you to my ſelf, that where I am there yee may bee alſo, which is at the right hand of God the Father, in heaven.</p>
+            <p>We have not any one place or text of Scripture which mentions any comming of Chriſt to raign upon earth in his humane nature perſonally, which theſe men fondly dream of: We read indeed of a ſecond comming of Chriſt, but then it is to judge<g ref="char:EOLhyphen"/>ment, <hi>Jude</hi> 14. 15. <hi>Behold the Lord commeth</hi> (ſaith the Text) <hi>with ten thouſands of his Saints to execuee judgement upon all, and to convince all,</hi> And <hi>Pſal.</hi> 96. 13. <hi>For lo he commeth, for he commeth,</hi> faith the Pſalmiſt; but it is not per<g ref="char:EOLhyphen"/>ſonally to raign, but to judge the earth: Even ſo come Lord Jeſus come quickly. I deny not but that the Lord Jeſus Chriſt ſhall in theſe latter days have amoſt glorious Kingdom in the world, but then it ſhall be a ſpiritual and holy Kingdome in the hearts and lives of his people. And thus hath Chriſt reigned in ſome meaſure more or leſs, ever ſince his comming in the fleſh, yea ever ſince the beginning of the world; and thus, and thus onely ſhall Chriſt raign, till we all come to raign with him in heaven. For he muſt raign, ſaith the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="6" facs="tcp:170188:5"/>
+1 <hi>Cor.</hi> 15. till he hath put all his enemies un<g ref="char:EOLhyphen"/>der his feet.</p>
+            <p>Likewiſe alſo conſider, how detogarory this doctrine of an earthly reign, is to the honour and dignity of the Lord Jeſus Chriſt, what is Chriſt gone to heaven, there to live and reign as Lord and King for ever with his Father, and ſhall men conceit or imagine that he ſhall leave his Fathers glory, and a moſt glorious and heavenly Kingdom for an earthly Kingdom! Certainly this is a moſt groſs abſurdity, and great affront to the honour and dignity of the Lord Jeſus Chriſt thus to con<g ref="char:EOLhyphen"/>ceit: is not he King over all, and doth hee not rule in the Kingdoms of men? Is not the King of Kings, and Lord of Lords, and ſhal any ignoble him ſo as have him to have but an earthly King<g ref="char:EOLhyphen"/>dome, to rule and govern like a Monarch in the world? O horrible indignity. This fond conceit of Chriſt perſonal raign upon earth, may be like<g ref="char:EOLhyphen"/>ned to the fond conceit and blind opinion of the Jews, who looking for the glorious comming of Chriſt as their King, to live and raign as a King and Monarch upon earth, could not ſtoop ſo low as to ſee him lying in a manger; which fond opi<g ref="char:EOLhyphen"/>nion of theirs, they were and are even at this very day ſo confident of, that they both flight and de<g ref="char:EOLhyphen"/>ſpiſe the comming of Chriſt indeed; and ſo I pray God out Monarchical generation. Workmen, who
+<pb n="7" facs="tcp:170188:5"/>
+would pull down Chriſt from his throne in Hea<g ref="char:EOLhyphen"/>ven to ſet him up upon earth, I pray God, I ſay, that theſe men bee not found to bee the men that reſiſt and withſtand both the Kingdome and po<g ref="char:EOLhyphen"/>wer of Jeſus Chriſt, Certainly theſe mens do<g ref="char:EOLhyphen"/>ctrines, let them ſay what they will, are alto<g ref="char:EOLhyphen"/>gether Antichriſtian and abhominable.</p>
+            <p>Another deſign of theſe generation Workmen, in which they have not been a little active, is to cry down all inſtitution of Government both in Church and State, though never ſo ſacred, as An<g ref="char:EOLhyphen"/>tichriſtian and unlawful thereby ſeeking like cun<g ref="char:EOLhyphen"/>ning Engineers, to undermine both Religion and Government in its very foundation; but how An<g ref="char:EOLhyphen"/>tichriſtian and unlawful the deſignes and actings of theſe very men themſelves are, is not a little ap<g ref="char:EOLhyphen"/>parent: Hath God in his word ſet up Governours and Government in the world, and as he himſelf ſaith, <hi>it is by him that Kings raigne, and Princes decree juſtice,</hi> and ſhal theſe men in their blind zeal go about to throw them down? Did Chriſt himſelf and all his Diſciples after him pray for, and quietly ſubmit themſelves in all godlineſs and ho<g ref="char:EOLhyphen"/>neſty, to the government of theſe men when they lived, giving them all honour, and paying tribute and cuſtome to them, and ſhal Mr. <hi>Feak</hi> and Mr. <hi>Rogers</hi> and others of this generation, preach a<g ref="char:EOLhyphen"/>gainſt and pray againſt all Government and Go<g ref="char:EOLhyphen"/>vernours?
+<pb n="8" facs="tcp:170188:6"/>
+O horrible Antichriſtian doctrine: Do theſe men preach the Goſpel? certainly no. Doth the word of God, 1 <hi>Tim.</hi> 2. 2 commend men that are in authority, and ſhal theſe men go about to pull down all rule and authority? May we, if we our ſelves wil, lead a quiet and peaceable life un<g ref="char:EOLhyphen"/>der our Governours and government, in all godli<g ref="char:EOLhyphen"/>neſs and honeſty, and ſhal we with tumults go a<g ref="char:EOLhyphen"/>bout to embroil our ſelves and the whole Nation in bloud and miſery? Doth the word of God <hi>Rom.</hi> 13. 1, 2. ſay expreſly, that there is no power but of God, and that the powers which now are are of God, who ſetteth up and pulleth down whom he pleaſes, and ſhal theſe men ſay they are not of God but of Antichriſt? Certainly this is no other then to give God the lye. Muſt we be ſub<g ref="char:EOLhyphen"/>ject (as the word of God ſaith) not onely for wrath but for conſcience ſake, and ſhall men under vain pretences of they know not what, refuſe to yeeld ſubjection, and contrive, plot and conſpire againſt them and their authority? What is this but inſtead of ſetting of Chriſt up to raign, but to pull Chriſt down from his throne? Are not theſe then ſtrange and unheard of doctrines? the Lord convince them of their folly, and give them a ſight and ſenſe of their errors.</p>
+            <p>Another doctrine and deſigne of theſe men al<g ref="char:EOLhyphen"/>together as derogatory from the truth as the other,
+<pb n="9" facs="tcp:170188:6"/>
+is this; That that the government of the world ſhalbe inveſted into the hands of the Saints, of whom they think themſelves to bee chie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; which doctrine how pernitious and deſtructive it hath been, former ages have ſadly experienced. I con<g ref="char:EOLhyphen"/>feſs it were a good thing and deſirable, and I would to God it might ſo be, that all Governors whatſoever might be good and upright men, men fearing God and hating covetouſneſs, that our Princes may be Peace, and our Exactors righte<g ref="char:EOLhyphen"/>ouſneſs, that ſo judgement and juſtice might run down like a mighty ſtream; this indeed were a good thing, and a thing greatly to be deſired, and which indeed ought to bee endeavoured after by all: And I could wiſh that all thoſe whoſe right it is both to chuſe and conſtitute Officers of all ſorts, would on all occaſions make choiſe of ſuch men. But to teach or maintain that Saints as Saints ought to bear rule in the world, is deroga<g ref="char:EOLhyphen"/>tory from the rule of Scripture, and would bee pernitious if not deſtructive to all humane ſociety.</p>
+            <p>Laſtly, I wiſh thoſe men themſelves thus en<g ref="char:EOLhyphen"/>gaged in the work of their generation (as they ſay) and all others, ſeriouſly to conſider how great<g ref="char:EOLhyphen"/>ly they advance thy Kingdome of Satan above the Kingdome of Chriſt; for it's the Devils doctrine to preach down government and Governours, it's his work to pull down Miniſters and Miniſtry:
+<pb n="10" facs="tcp:170188:7"/>
+yea, it is the Devils main deſign to root out of the world both Miniſtry and Magiſtracy, and all o<g ref="char:EOLhyphen"/>ther Schools of Learning, good education, and knowledge; for it's the Miniſters by their preaching the Goſpel, that oppoſe the Kingdom of Satan. And it's not a little conſiderable, how highly theſe men go about to gratifie as well the bloudy Papiſts, as the Devil alſo; what more can the Devil or the Papiſts wiſh or deſire, then to ſee Learning and knowledg taken away from among us? who then ſhall bee able to reſiſt or gainſay their ridiculous, ſoul-damning, deſperate doctrine, and tradition? how ſoon then will men be infect<g ref="char:EOLhyphen"/>ed with the poyſon of Popery? and how eaſily may men be drawn aſide, when there is none to guide or iuſtruct them in the ways of truth? men are of themſelves too too apt to be led aſide with error, and they muſt needs fall into the ſnares of the Devil when they neither ſee it nor hear of it; and as for the Devil, how greatly doth he rejoyce at ſuch workings as theſe?</p>
+            <p>Certainly theſe generation workmen, I mean thoſe of the Fifth Monarchy, would ſave the De<g ref="char:EOLhyphen"/>vil a great deal of labour, if they could but beat down Miniſtry and Magiſtracy, which is the great work which the Devil hath been doing ever ſince he was a Devil: if once that work were done, then he might eaſily go on without contradiction
+<pb n="11" facs="tcp:170188:7"/>
+in deluding and deceiving poor ſouls. The Lord prevent both him and them, and ſtill keep up a Goſpel Miniſtry, a powerfull preaching Miniſtry in the world, eſpecially in theſe nations, which I am confident ſhal be even to the end of the world ſo long as there is a ſoul to ſave, there ſhall be, in deſpight of the Devil and all his inſtruments, a Miniſter to preach ſalvation; for <hi>Epheſ.</hi> 4. 11. Chriſt gave ſome Prophets, ſome Apoſtles ſome Paſtors, and ſome Teachers, for the perfecting of the Saints, for the work of the Miniſtry, which muſt continue to the end of the world. But theſe men will ſay, they would pull down Antichriſti<g ref="char:EOLhyphen"/>an Miniſters and Learning, of which ſort they ac<g ref="char:EOLhyphen"/>count all our learned, reverend, and godly Di<g ref="char:EOLhyphen"/>vines; yet they would ſet up a more heavenly way of preaching, which ſhould be all by the in<g ref="char:EOLhyphen"/>ſpiration of the ſpirit, without either learning, gifts or tongues: Certainly theſe men do not know what ſpirit they are of themſelves. What ground or promiſe is there in all the word of God for any ſuch extraordinary inſpirations and infuſions of the ſpirit which theſe men dream of? Doth not the ſpirit of God ſay, To the Law and to the Te<g ref="char:EOLhyphen"/>ſtimony? And ye do well (ſaith St. <hi>Peter)</hi> to take heed to the word, as to a light that ſhineth in dark places. In the Epiſtle to <hi>Timothy,</hi> St. <hi>Paul</hi> adviſeth <hi>Timothy</hi> to give attendance to rea<g ref="char:EOLhyphen"/>ding
+<pb n="12" facs="tcp:170188:8"/>
+to exhortation, and to doctrine, and not to neglect the gift that was in him: But certainly theſe men would not onely deceive themſelves, but alſo the whole Nation. And ſhould theſe men (which God forbid) theſe generation work<g ref="char:EOLhyphen"/>men, have but their wills and ways, what fad and diſorderly doings ſhould we have? where ſhould we look for juſtice, conſcience, or honeſty among men, ſeeing the ſpirits of theſe men are by Divine inſpiration, as they ſay? Certainly, in ſtead of having our generation work done, we ſhould have Satans deſigne carried on, which would be to kill and deſtroy all that ſhall gain<g ref="char:EOLhyphen"/>ſay them, which the Lord forbid.</p>
+            <p>I ſhall conclude all with this exhortation to all men, firſt, to fear God; and ſecondly, to ſubmit peaceably and quietly to all that are in authority over us, that we living peaceably under them, may lead a godly, quiet, and peaceable life, in all godlineſs and honeſty; and not to plot or conſpire either directly or indirectly againſt either the per<g ref="char:EOLhyphen"/>ſons or power of thoſe under whom we live, whom God hath ſet over us to rule and execute authority over us for good. The good Lord ei<g ref="char:EOLhyphen"/>ther convert or confound the devices of all thoſe that bear evil will to the peace and proſperity of theſe three Nations, and continue Government and Governours amongſt us, both Miniſtry and
+<pb n="13" facs="tcp:170188:8"/>
+Magiſtracy, in deſpight of all oppoſers: And the good Lord grant that none may be ſuffered under pretence of the Kingdome of Chriſt upon earth, to ſet up themſelves as Chriſts Deputies to rule and reign. And my deſire is, that all the King<g ref="char:EOLhyphen"/>domes of the world may become the Kingdomes of Chriſt, I mean ſpiritually, not in a Monarchi<g ref="char:EOLhyphen"/>cal manner; that Chriſt may live and reign in our hearts by the power of his grace and ſpirit, in a more heavenly life and converſation, that ſo we may every one of us ſubmit to the bleſſed Scepter of his Kingdome, which is a Scepter of righteouſ<g ref="char:EOLhyphen"/>neſs and holineſs, peace and quietneſs; not of envy or malice, hatred or revenge: that ſo wee may every one of us be doing the works of our generation, which is not to raiſe tumults and com<g ref="char:EOLhyphen"/>motions in the world, but to live peaceably and quietly in thoſe places and conditions which God hath ſet us in, ſubmitting our ſelves (as the Apo<g ref="char:EOLhyphen"/>ſtle ſaith) to the higher powers, and, as we are bound to pray for them; giving to all their due, tribute to whom tribute is due, cuſtome to whom cuſtome, honour to whom honour is due, <hi>Rom.</hi> 13. 7. as we have Chriſt and his Apoſtles for our examples, that the name of Chriſt and Religion may not be evil ſpoken of; and as for the Go<g ref="char:EOLhyphen"/>vernment of the world, let us leave that to God, who alone pulleth down and ſetteth up: Let it
+<pb n="14" facs="tcp:170188:9"/>
+be our work and our buſineſs to work out our own ſalvation with fear and trembling, that ſo we may at the end of our days receive the end of our faith, even the ſalvation of our ſouls.</p>
+            <p>You have ſeen now what the Kingdome of Chriſt is, an holy and heavenly Kingdome, not a carnal and earthly Kingdome, as vain men fondly conceive, but an eternal Kingdome in the higheſt Heaven. Let us therefore receiving this King<g ref="char:EOLhyphen"/>dome which cannot be moved, have grace in our hearts, whereby we may ſerve God acceptably with fear and reverence, <hi>Heb</hi> 12. 28. that ſo af<g ref="char:EOLhyphen"/>ter this ſinfull life is ended, we may live and reign with Chriſt for ever in the world to come.</p>
+            <closer>AMEN.</closer>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:170188:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
